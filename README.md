@@ -10,9 +10,9 @@ The `Error Notification` is a package to send notification when has an error .
 
 ## Installation
 
-Require the `litermi-packageserror-notification` package in your `composer.json` and update your dependencies:
+Require the `litermi-packages/error-notification` package in your `composer.json` and update your dependencies:
 ```sh
-composer require litermi-packageserror-notification
+composer require litermi-packages/error-notification
 ```
 
 
